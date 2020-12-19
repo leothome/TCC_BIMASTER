@@ -1,4 +1,4 @@
-# Analise de perfirmace de vendas Granus & Phinus Cosméticos
+# Analise de performance de vendas e identificação de clientes Granus & Phinus Cosméticos
 
 #### Aluno: [Leonardo Thome da Silva](https://github.com/leothome)
 #### Orientador(/a/es/as): [Anderson Nascimento](https://github.com/insightds)
